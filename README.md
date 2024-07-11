@@ -11,19 +11,24 @@ The data is collected from the [World Bank Commodity monthly prices](https://www
 
 ## Dashboard Features
 - **Commodity and year Selection**: Users can select the commodity name and year to be shown.
+  
 ![*Commodity and year Selection](Images/Captura2.PNG)
 
 - **Current Prices**: The dashboard displays the current prices of the commodities along with the last month's change in percentage.
+  
 ![Current Prices](Images/Captura3.PNG)
 
 - **Timeline Graph**: The center of the report features a timeline graph of the prices of the chosen commodity.
+  
 ![Price line plot](Images/Captura4.PNG)
 
 - **Volatility Gauge Plot**: On the right side of the dashboard, users will find the volatility value for the commodity for the chosen period in a Gauge plot. The minimum value represents the lowest percentage change, and the maximum value represents the highest percentage change in a month.
+  
 ![Gauge Plot](Images/Captura5.PNG)
 
   
 - **Percentage Change Timeline**: Below the gauge, there is a timeline for the percentage change during the period, allowing users to identify how volatility affected the commodity in the chosen period.
+
 ![Percentage Change](Images/Captura6.PNG)
 
 
