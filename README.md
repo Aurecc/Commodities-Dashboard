@@ -1,6 +1,6 @@
 # Commodities-Dashboard
 
-![Dashboard](Captura1.PNG)
+![Dashboard](Images/Captura1.PNG)
 
 
 ## Introduction
