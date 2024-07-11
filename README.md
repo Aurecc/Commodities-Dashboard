@@ -1,5 +1,8 @@
 # Commodities-Dashboard
 
+![Dashboard](Captura1.PNG)
+
+
 ## Introduction
 The purpose of this report is to understand the evolution of different commodity prices and the volatility of said commodities in order to identify investment opportunities.
 
